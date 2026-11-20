@@ -1,2 +1,2 @@
 # student-performance-analysis
-Analysis of student performance using Python, pandas and seaborn 
+Netflix Movies and TV shows Data Analysis using Python, Pandas, and Matplotlib with baisc data cleaning, exploratory data analysis, and visualizations.
