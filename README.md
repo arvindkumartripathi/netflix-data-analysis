@@ -14,22 +14,6 @@ The dataset used in this project was downloaded from **Kaggle**.
 
 **Source:** [Kaggle – Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/ranaghulamnabi/netflix-movies-and-tv-shows-dataset)
 
-The dataset contains information about Netflix movies and TV shows, including:
-- Show ID
-- Type
-- Title
-- Director
-- Cast
-- Country
-- Date Added
-- Release Year
-- Rating
-- Duration
-- Listed In
-- Description
-
-**Note:** This dataset is used only for educational and data analysis purposes.
-
 ## 🎯 Objectives
 
 - Explore the Netflix Movies and TV Shows dataset.
@@ -158,10 +142,8 @@ The dataset contains information about Netflix titles, including:
 ## 👨‍💻 Author
 
 **Arvind Kumar Tripathi**
-
-- Section: CSE 4
-- Admission Number: 2026B01011080
-- Roll Number: 34
+<br>
+**Btech 1st year**
 
 ## ⭐ Conclusion
 
@@ -171,4 +153,3 @@ It provided practical experience in using Python libraries for data analysis and
 
 ---
 
-**If you find this project useful, don't forget to give it a ⭐ on GitHub!**
