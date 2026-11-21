@@ -6,6 +6,29 @@ This project focuses on analyzing the Netflix Movies and TV Shows dataset using 
 
 The project uses **Pandas, NumPy, Matplotlib, and Seaborn** for data analysis and visualization.
 
+## 📁 Dataset Source
+
+The dataset used in this project was downloaded from **Kaggle**.
+
+**Dataset Name:** Netflix Movies and TV Shows
+
+**Source:** [Kaggle – Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/ranaghulamnabi/netflix-movies-and-tv-shows-dataset)
+
+The dataset contains information about Netflix movies and TV shows, including:
+- Show ID
+- Type
+- Title
+- Director
+- Cast
+- Country
+- Date Added
+- Release Year
+- Rating
+- Duration
+- Listed In
+- Description
+
+
 ## 🎯 Objectives
 
 - Explore the Netflix Movies and TV Shows dataset.
@@ -29,17 +52,15 @@ The project uses **Pandas, NumPy, Matplotlib, and Seaborn** for data analysis an
 
 ## 📂 Project Structure
 
-```text
 Netflix-Data-Analysis/
 │
 ├── Arvind_Kumar_Tripathi_2026B01011080.ipynb
 │
+├── README.md
+│
 ├── netflix_titles.csv
 │
-├── netflix_titles_cleaned.csv
-│
-└── README.md
-```
+└── netflix_titles_cleaned.csv
 
 ## 📊 Project Workflow
 
