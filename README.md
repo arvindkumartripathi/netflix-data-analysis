@@ -50,8 +50,9 @@ The dataset contains information about Netflix movies and TV shows, including:
 | Seaborn | Statistical visualization |
 | Google Colab / Jupyter Notebook | Code execution |
 
-📂 Project Structure
+## 📂 Project Structure
 
+```text
 Netflix-Data-Analysis/
 │
 ├── Arvind_Kumar_Tripathi_2026B01011080.ipynb
