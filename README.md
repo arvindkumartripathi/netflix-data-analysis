@@ -28,6 +28,7 @@ The dataset contains information about Netflix movies and TV shows, including:
 - Listed In
 - Description
 
+**Note:** This dataset is used only for educational and data analysis purposes.
 
 ## 🎯 Objectives
 
@@ -56,9 +57,13 @@ The dataset contains information about Netflix movies and TV shows, including:
 Netflix-Data-Analysis/
 │
 ├── Arvind_Kumar_Tripathi_2026B01011080.ipynb
-├── README.md
+│
 ├── netflix_titles.csv
-└── netflix_titles_cleaned.csv
+│
+├── netflix_titles_cleaned.csv
+│
+└── README.md
+```
 
 ## 📊 Project Workflow
 
